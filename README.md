@@ -28,5 +28,3 @@ A simple and intuitive Python-based desktop application for managing book lendin
 - pandas
 - matplotlib
 
-## 📂 Folder Structure
-
